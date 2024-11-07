@@ -1,0 +1,17 @@
+{
+  "AppVersion": "1.0.0.0",
+  "Title": "Pup In A Rug",
+  "Thumbnail": "thumbnail.png",
+  "Preview": "preview.png",
+  "Desc": "Pup in a Rug Wallpaper Edition",
+  "Author": "nullbyte, owner of pupinarug.com",
+  "License": "",
+  "Contact": "https://github.com/nullbytenet",
+  "Type": 1,
+  "FileName": "index.html",
+  "Arguments": null,
+  "IsAbsolutePath": false,
+  "Id": null,
+  "Tags": null,
+  "Version": 0
+}
